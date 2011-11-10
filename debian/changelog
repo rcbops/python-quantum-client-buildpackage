@@ -1,3 +1,9 @@
+python-quantum-client (0.1-rcb2) maverick; urgency=low
+
+  * Add python-quantum-common to runtime deps
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Thu, 10 Nov 2011 17:38:19 -0600
+
 python-quantum-client (0.1-rcb1) maverick; urgency=low
 
   * Initial import
