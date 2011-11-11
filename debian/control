@@ -11,5 +11,5 @@ Package: python-quantum-client
 Architecture: all
 Homepage: http://github.com/openstack/quantum
 XB-Python-Version: ${python:Versions}
-Depends: ${misc:Depends}, ${python:Depends}, python-quantum-common (= ${binary:Version})
+Depends: ${misc:Depends}, ${python:Depends}, python-quantum-common (>= 0.1)
 Description: Openstack Quantum API client for python
