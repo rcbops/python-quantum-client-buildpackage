@@ -1,3 +1,9 @@
+python-quantum-client (0.1-rcb4) maverick; urgency=low
+
+  * Convert to debhelper from cdbs
+
+ -- RCB Builder <rcb-deploy@lists.rackspace.com>  Fri, 11 Nov 2011 10:24:29 -0600
+
 python-quantum-client (0.1-rcb3) maverick; urgency=low
 
   * Don't require strictly equal common version, as they are packaged separately
